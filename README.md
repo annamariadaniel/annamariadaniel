@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annamariadaniel
-- 👀 I’m interested in Frontend Web Development
+- 👀 I’m interested in Software testing and Frontend Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on building websites
 - 📫 How to reach me annamaria711@gmail.com
